@@ -1,1 +1,1 @@
-worker: python Alpha Bit.py
+worker.3 python Alpha Bit.py
